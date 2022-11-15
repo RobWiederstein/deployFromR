@@ -1,0 +1,11 @@
+name: deployfromr
+title:
+username:
+account: rob-wiederstein
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7626526
+bundleId: 6514279
+url: https://rob-wiederstein.shinyapps.io/deployfromr/
+when: 1668471489.37975
+lastSyncTime: 1668471489.37976
